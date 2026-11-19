@@ -21,9 +21,9 @@ Only about 7% of people are defaulters, so the data is imbalanced.
 ## Results
 | Model | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|
-| Logistic Regression | [ ] | [ ] | [ ] | [ ] |
-| Decision Tree | [ ] | [ ] | [ ] | [ ] |
-| Random Forest | [ ] | [ ] | [ ] | [ ] |
+| Logistic Regression | [ 0.211 ] | [ 0.714 ] | [ 0.331 ] | [0.864 ] |
+| Decision Tree | [0.220 ] | [0.768 ] | [0.342 ] | [ 0.863] |
+| Random Forest | [ 0.236] | [0.760 ] | [0.361 ] | [ 0.871] |
 
 **Best model:** [name] with ROC-AUC [value].
 
